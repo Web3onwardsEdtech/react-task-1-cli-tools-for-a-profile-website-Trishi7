@@ -8,4 +8,4 @@ const WelcomeBanner = () => {
     );
 }
 
-export default WelcomeBanner;//Task #26 completed.
+export default WelcomeBanner;//Task #27 completed.
